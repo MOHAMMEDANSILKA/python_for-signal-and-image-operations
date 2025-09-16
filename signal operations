@@ -39,7 +39,7 @@
       },
       "outputs": [
         {
-          "output_type": "display_data",
+          "output_type": "display_datas",
           "data": {
             "text/plain": [
               "<Figure size 800x200 with 1 Axes>"
